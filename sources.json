@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "https://github.com/stuerp/Compositing",
+    "commit": "deb75b0d4be9cd3ac73236ba5f8fa167c688a80e",
+    "purpose": "Reference material for native DirectComposition approaches; reference repository not included."
+  },
+  {
+    "repository": "https://github.com/microsoft/Windows.UI.Composition-Win32-Samples",
+    "commit": "ee50e2ea137dcef7b82ba504eff7435e5ebf5294",
+    "purpose": "Reference Win32 composition sample behavior; reference repository not included."
+  }
+]
